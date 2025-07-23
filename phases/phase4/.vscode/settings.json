@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "temp.h": "c",
+        "expr.h": "c",
+        "stdlib.h": "c",
+        "quads.h": "c",
+        "avm_tables.h": "c",
+        "avm_const_tables.h": "c"
+    }
+}

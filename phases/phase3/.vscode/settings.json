@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "temp.h": "c",
+        "expr.h": "c",
+        "stdlib.h": "c",
+        "quads.h": "c"
+    }
+}
